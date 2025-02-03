@@ -16,17 +16,17 @@ I am a **final-year B.Tech student at NIT Kurukshetra** passionate about **AI, N
 
 ## 📌 Featured Projects  
 
-### 🔹 [Chat PDF – AI-Powered Document Chatbot](https://github.com/samarthkukreja/chat-pdf)  
+### 🔹 [Chat PDF – AI-Powered Document Chatbot](https://github.com/Sohm14/chat-pdf)  
 📄 AI chatbot to **interact with PDFs**, extracting key insights using **LangChain & OpenAI API**.  
 
-### 🔹 [Lunar Terrain Object Detection](https://github.com/samarthkukreja/lunar-object-detection)  
+### 🔹 [Lunar Terrain Object Detection](https://github.com/Sohm14/object_detection)  
 🌙 Identifies **rocks & shadows on lunar surfaces** with **YOLOv5 Nano & Faster R-CNN**.  
 
-### 🔹 [Sign Language Detection & Translation](https://github.com/samarthkukreja/sign-language-detection)  
+### 🔹 [Sign Language Detection & Translation](https://github.com/Sohm14/ISL-Detection-And-Translation)
 🖐️ Real-time Indian Sign Language recognition using **MediaPipe & RandomForestClassifier**.  
 🔹 Converts **sign gestures into text & speech**.  
 
-### 🔹 [Facial Recognition Attendance System](https://github.com/samarthkukreja/facial-attendance-system)  
+### 🔹 [Facial Recognition Attendance System](https://github.com/Sohm14/Facial-Recognition-And-Attendance-System)  
 👨‍🎓 **98% accuracy** in student attendance marking using **OpenCV & Firebase**.  
 
 ---
